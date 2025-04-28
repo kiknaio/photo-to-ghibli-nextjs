@@ -1,17 +1,17 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+<img width="1684" alt="Screenshot 2025-04-28 at 10 10 15" src="https://github.com/user-attachments/assets/1d9e7741-3f14-476b-95b6-79d0bbd45bc2" />
 
-First, run the development server:
+## Photo to Ghibli
+
+It's a fully functional photo to Studio Ghibli style image processor. Built with Next.js and OpenAI `gpt-image-1`
+
+To run:
 
 ```bash
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
